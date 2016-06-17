@@ -1,0 +1,12 @@
+********************************************PROJECT NOTES ******************************************************
+
+1. This is a test app packaged with free software
+	- You will recieve an alert when you try to open the application
+	- This alert is because I used the free version of the software
+
+2. The file structure of this folder CANNOT BE ALTERED
+	- To use the application elsewhere, create a shortcut to the .exe file in this folder
+
+3. The code and image files for this programe are NOT ENCRYPTED in any way
+	- All may be used without any issue concerning copyrights or compensation
+	- If you would like to give credit, please direct credit towards Branden Keck, www.brandenkeck.com
