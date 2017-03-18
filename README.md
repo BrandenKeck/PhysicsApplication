@@ -11,6 +11,6 @@
 ####Other basic object-oriented programming ideas
   
 #Screenshots:  
-![Screen Shot 1](http://brandenkeck.com/res/img/screenshot/physics app/SS1.png)
-![Screen Shot 2](http://brandenkeck.com/res/img/screenshot/physics app/SS2.png)
-![Screen Shot 3](http://brandenkeck.com/res/img/screenshot/physics app/SS3.png)
+![Screen Shot 1](http://brandenkeck.com/res/img/screenshot/physics%20app/SS1.png)
+![Screen Shot 2](http://brandenkeck.com/res/img/screenshot/physics%20app/SS2.png)
+![Screen Shot 3](http://brandenkeck.com/res/img/screenshot/physics%20app/SS3.png)
