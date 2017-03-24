@@ -1,7 +1,7 @@
 # PhysicsApplication
 #### Java swing application that computes physics variables  
 #### Program is very basic and is intended to help me practice interfaces and inheritance  
-#### Download link for example: [.zip Download](http://www.brandenkeck.com/res/downloads/Physics App.zip)  
+#### Download link for example: [.zip Download](http://www.brandenkeck.com/res/downloads/Physics%20App.zip)  
   
 # Relevant Ideas:  
 #### Use of CardLayout to change screens  
